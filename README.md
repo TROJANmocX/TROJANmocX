@@ -1,116 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Arish | Villain Mode</title>
+<h2 align="left">Ahoy 🏴‍☠️ Ready to chase the Grand Line</h2>
 
-  <style>
-    body {
-      margin: 0;
-      height: 100vh;
-      background: #000;
-      color: #fff;
-      font-family: Arial, Helvetica, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      overflow: hidden;
-    }
+###
 
-    .container {
-      position: relative;
-      text-align: center;
-      max-width: 700px;
-      padding: 40px;
-      z-index: 2;
-    }
+<p align="left">Hi, my name is Arish and I'm a Frontend Developer & AI Builder from India.</p>
 
-    h1 {
-      font-size: 52px;
-      letter-spacing: 3px;
-      margin-bottom: 10px;
-    }
+###
 
-    h3 {
-      font-weight: normal;
-      opacity: 0.8;
-      margin-bottom: 30px;
-    }
+<p align="left">Frontend Developer with a strong focus on modern web technologies and AI-driven applications.  <br>Experienced in building scalable, user-focused interfaces and automation tools.  <br>Currently improving skills in Next.js, Three.js, Docker, and Prompt Engineering.  <br>Interested in solving real-world problems through clean, efficient code.<br>Fun fact: I enjoy building projects that combine creativity with performance.</p>
 
-    .bio {
-      line-height: 1.8;
-      opacity: 0.9;
-    }
+###
 
-    .dragon {
-      position: absolute;
-      width: 280px;
-      pointer-events: none;
-      animation: orbit 8s linear infinite, float 3s ease-in-out infinite;
-      z-index: 1;
-      filter: drop-shadow(0 0 25px rgba(255,255,255,0.3));
-    }
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TROJANmocX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TROJANmocX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-    @keyframes orbit {
-      0%   { transform: translate(-220px, -120px); }
-      25%  { transform: translate(220px, -160px); }
-      50%  { transform: translate(260px, 120px); }
-      75%  { transform: translate(-220px, 160px); }
-      100% { transform: translate(-220px, -120px); }
-    }
+###
 
-    @keyframes float {
-      0%   { transform: translateY(0); }
-      50%  { transform: translateY(-15px); }
-      100% { transform: translateY(0); }
-    }
+<br clear="both">
 
-    .links {
-      margin-top: 25px;
-      font-size: 14px;
-      opacity: 0.8;
-    }
+<img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnYzYjltb3E3dTZ6ZHE4ejJkOHJ5M2JwcDRiNWZ3aXp2bXNzc21yMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ai8iZqHx2i0fK/giphy.gif"  />
 
-    .links a {
-      color: #fff;
-      text-decoration: none;
-      margin: 0 10px;
-      border-bottom: 1px solid rgba(255,255,255,0.3);
-    }
+###
 
-    .links a:hover {
-      opacity: 1;
-    }
-  </style>
-</head>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+</div>
 
-<body>
+###
 
-  <img 
-    class="dragon" 
-    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" 
-    alt="Dragon"
-  />
+<div align="left">
+  <a href="https://www.instagram.com/trojan_mocx/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="pedro_19_ss" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/arish-ali-8670341b3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://dev.to/trojanmocx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+</div>
 
-  <div class="container">
-    <h1>ARISH</h1>
-    <h3>Frontend Developer | AI Builder | Controlled Chaos</h3>
+###
 
-    <div class="bio">
-      Working on AI tools, web apps, and ideas that escalate fast.<br><br>
-      Collaborating on open-source, dev tools, and controlled chaos.<br><br>
-      Learning Next.js, Three.js, Docker, and Prompt Engineering.<br><br>
-      Ask me about React, Tailwind, Python.<br><br>
-      Most ideas start at 2 AM. Consequences follow.
-    </div>
+<br clear="both">
 
-    <div class="links">
-      <a href="https://github.com/TROJANmocX" target="_blank">GitHub</a>
-      <a href="https://linkedin.com/in/arish-ali-8670341b3" target="_blank">LinkedIn</a>
-      <a href="https://instagram.com/trojan_mocx" target="_blank">Instagram</a>
-      <a href="https://dev.to/trojanmocx" target="_blank">Dev.to</a>
-    </div>
-  </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TROJANmocX/TROJANmocX/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TROJANmocX/TROJANmocX/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TROJANmocX/TROJANmocX/output/pacman-contribution-graph.svg">
+</picture>
 
-</body>
-</html>
+###
